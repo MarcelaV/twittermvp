@@ -10,7 +10,7 @@ body{
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 10%;
+	height: 20%;
 
 }
 
@@ -32,6 +32,7 @@ body{
 	top: 10%;
 	left: 15%;
 	border-style: solid;
+	color: white;
 	border-color: blue;
 	border-radius: 3%;
 
@@ -43,7 +44,7 @@ body{
 	padding: 1em;
 	box-sizing: border-box;
 	width: 30%;
-	height: 30%;
+	height: 33%;
 	top: 10%;
 	left: 50%;
 	border-style: solid;
@@ -60,9 +61,20 @@ body{
 .twitt{
 /*	position: fixed;*/
 	border: solid;
+	left: 20%;
 }
 
 /*.linea{
 	position: fixed;
 }
 */
+#contador_text{
+	/*border: solid;*/
+/*	color: blue;
+	color: orange;*/
+}
+
+.linea{
+	font-weight: bold;
+	font-size: 2em;
+}
