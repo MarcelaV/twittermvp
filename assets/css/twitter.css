@@ -44,7 +44,7 @@ body{
 	padding: 1em;
 	box-sizing: border-box;
 	width: 30%;
-	height: 33%;
+	height: 31%;
 	top: 10%;
 	left: 50%;
 	border-style: solid;
@@ -77,4 +77,8 @@ body{
 .linea{
 	font-weight: bold;
 	font-size: 2em;
+}
+
+.imagen3{
+	width: 100%;
 }

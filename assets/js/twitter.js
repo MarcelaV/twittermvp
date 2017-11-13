@@ -8,7 +8,7 @@ window.onload = function () {
 
     thinkInput.onkeydown = function(e){ //función que cuenta los caracteres
         // console.log(e)
-        var total_caracter = 20;
+        var total_caracter = 140;
         var carcateres = thinkInput.value.length;//.value rescata el valor del elemento.
         var caracter_restante = total_caracter - carcateres;
         //FUNCIÓN PARA HACER QUE EL BOTÓN SE DESACTIVE
@@ -32,7 +32,7 @@ window.onload = function () {
     
     thinkInput.onkeyup = function(){
 
-        var total_caracter = 20;
+        var total_caracter = 140;
         var carcateres = thinkInput.value.length;
         var caracter_restante = total_caracter - carcateres;
 
